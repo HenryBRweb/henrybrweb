@@ -1,9 +1,6 @@
 ## Hello, I am Henry Gabriel 👋🇧🇷
 
 - 🔭 FullStack
-- 😄 Pronouns: he/him
-- ⚡ Curious fact: you are curious
-
   <div align="center">
   <img height="200" src="https://media.tenor.com/31044VVA7iMAAAAM/mewing-cat.gif"  />
 </div>
