@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome!</h1>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png" height="40" alt="go logo"  />
   <img width="12" />
 </div>
 
