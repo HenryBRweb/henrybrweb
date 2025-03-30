@@ -1,6 +1,6 @@
 ## Hello, I am Henry Gabriel 👋🇧🇷
 
-- 🔭 FullStack(Exemples: React, JavaScript, SQL, HTML, CSS...) 
+- 🔭 FullStack
 - 😄 Pronouns: he/him
 - ⚡ Curious fact: you are curious
 
