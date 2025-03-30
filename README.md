@@ -5,7 +5,7 @@
 - ⚡ Curious fact: you are curious
 
   <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif"  />
 </div>
 
 ###
