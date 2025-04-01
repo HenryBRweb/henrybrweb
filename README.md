@@ -22,7 +22,7 @@
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" height="40" alt="go logo"  />
   <img width="15" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png" height="40" alt="go logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png" height="100" alt="go logo"  />
   <img width="15" />
   <img src="https://www.svgrepo.com/show/376360/dart.svg" height="40" alt="go logo"  />
   <img width="15" />
